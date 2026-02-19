@@ -100,7 +100,7 @@ input, textarea{ border-bottom-width: 1px; }
 .gdlr-core-blog-widget .gdlr-core-blog-thumbnail{ max-width: 80px;
     border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
 .gdlr-core-blog-widget .gdlr-core-blog-info-wrapper{ margin-bottom: 6px; }
-.gdlr-core-blog-widget .gdlr-core-blog-title{ margin-bottom 0px; }
+.gdlr-core-blog-widget .gdlr-core-blog-title{ margin-bottom: 0 px; }
 
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list{ font-size: 16px; margin-top: -18px; }
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list li a{ padding-left: 0px; border: none; font-weight: 400; }
